@@ -17,6 +17,13 @@ $ sudo apt-get update
 $ sudo apt-get install python3 python3-pip python3-pil libjpeg-dev zlib1g-dev libfreetype6-dev liblcms2-dev libopenjp2-7 libtiff5 -y
 $ sudo -H pip3 install luma.oled
 
+
+$ python3 pi-monitor.py
+
+
+Run on startup
+@reboot python3 /root/pi-monitor.py &
+
 Ref : https://luma-oled.readthedocs.io/en/latest/
 
 ```
