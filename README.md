@@ -18,4 +18,9 @@ $ sudo apt-get install python3 python3-pip python3-pil libjpeg-dev zlib1g-dev li
 $ sudo -H pip3 install luma.oled
 
 Ref : https://luma-oled.readthedocs.io/en/latest/
+
 ```
+
+![Pi Stats OLED SD1106 - 2](https://raw.githubusercontent.com/X-c0d3/pi-stats-monitor-oled-sh1106/main/screenshot/IMG_20210815_202546.jpg)
+
+![Pi Stats OLED SD1106 - 3](https://raw.githubusercontent.com/X-c0d3/pi-stats-monitor-oled-sh1106/main/screenshot/IMG_20210816_231758.jpg)
