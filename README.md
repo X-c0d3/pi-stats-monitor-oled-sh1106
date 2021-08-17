@@ -22,6 +22,8 @@ $ python3 pi-monitor.py
 
 
 Run on startup
+$ crontab -e
+add this command in crontab
 @reboot python3 /root/pi-monitor.py &
 
 Ref : https://luma-oled.readthedocs.io/en/latest/
