@@ -1,4 +1,4 @@
-### Pi Stats with OLED SD1106
+### Stats Monitoring with OLED SH1106 on Raspberry P
 
 ![Pi Stats OLED SD1106](https://raw.githubusercontent.com/X-c0d3/pi-stats-monitor-oled-sh1106/main/screenshot/IMG_20210816_231547.jpg)
 
